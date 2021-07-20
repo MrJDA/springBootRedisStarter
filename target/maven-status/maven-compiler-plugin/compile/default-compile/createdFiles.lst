@@ -1,0 +1,4 @@
+com\oocl\configuration\RedisPropertiesConfiguration.class
+com\oocl\App.class
+META-INF\spring-configuration-metadata.json
+com\oocl\configuration\RedisAutoConfiguration.class

@@ -1,0 +1,16 @@
+{
+  "properties": [
+    {
+      "name": "redis.host",
+      "type": "java.lang.String",
+      "description": "redis的服务器地址",
+      "defaultValue": "localhost"
+    },
+    {
+      "name": "redis.port",
+      "type": "java.lang.Integer",
+      "description": "redis端口",
+      "defaultValue": 6379
+    }
+  ]
+}

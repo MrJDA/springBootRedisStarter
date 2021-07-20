@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "name": "redis",
+      "type": "com.oocl.configuration.RedisPropertiesConfiguration",
+      "sourceType": "com.oocl.configuration.RedisPropertiesConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "redis.host",
+      "type": "java.lang.String",
+      "sourceType": "com.oocl.configuration.RedisPropertiesConfiguration",
+      "defaultValue": "localhost"
+    },
+    {
+      "name": "redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.oocl.configuration.RedisPropertiesConfiguration",
+      "defaultValue": 6379
+    },
+    {
+      "name": "redis.s-s-l",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.oocl.configuration.RedisPropertiesConfiguration"
+    },
+    {
+      "name": "redis.timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.oocl.configuration.RedisPropertiesConfiguration",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}
